@@ -2,7 +2,7 @@
 
 Este projeto é um sistema web simples para a gestão de pacientes numa clínica de emagrecimento, desenvolvido como trabalho prático para a disciplina de Sistemas Operacionais. A aplicação foi construída utilizando a plataforma ASP.NET Web Forms e a linguagem C#.
 
-## 📋 Funcionalidades Principais
+## Funcionalidades Principais
 
 O sistema permite realizar operações básicas de gestão de pacientes, calculando o seu Índice de Massa Corporal (IMC) e fornecendo um diagnóstico.
 
